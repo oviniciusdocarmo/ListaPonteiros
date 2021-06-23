@@ -1,0 +1,4 @@
+O que é um ponteiro para uma função?
+
+A utilização dos ponteiros para uma função servem para definir, no tempo da execução,
+qual será a função que vai ser executada, não precisando inserir o nome da função naquele momento.
