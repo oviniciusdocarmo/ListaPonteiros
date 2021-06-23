@@ -1,0 +1,10 @@
+questao16
+
+utilizando sem o uso do qsort -------------- 2.019 seconds
+utilizando qsort --------------------------- 1.630 seconds
+utilizando ponteiros para função qsort ----- 1.537 seconds
+
+
+Fazendo a comparação dos tempos de execução dos códigos anteriores
+é possível observar que a utilização do método "qsort" tem um aproveitamento
+melhor em relação a velocidade de processamento
